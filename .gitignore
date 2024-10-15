@@ -1,0 +1,15 @@
+#Archivos binarios
+*.class
+*.exe
+
+#Archivos temporales
+*.log
+*.tmp
+*.swp
+
+/[Bb]uild/
+/[Tt]arget/
+
+#Imagenes y musica
+*.mp3
+*.png
